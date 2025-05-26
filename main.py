@@ -7,8 +7,8 @@ from spotipy.oauth2 import SpotifyOAuth
 import yt_dlp
 
 
-SPOTIPY_CLIENT_ID = '3c87f4b17bee480b99b899446e96ceea'
-SPOTIPY_CLIENT_SECRET = 'b22afe6f6fe349428b457615f669cb8c'
+SPOTIPY_CLIENT_ID = 'Your_client_id'
+SPOTIPY_CLIENT_SECRET = 'Your_client_secret_id'
 SPOTIPY_REDIRECT_URI = 'http://127.0.0.1:8888/callback'
 SCOPE = 'playlist-read-private'
 DOWNLOAD_DIR = 'downloads'
